@@ -1,6 +1,6 @@
 package Task;
 import java.util.Scanner;
-public class task1 {
+public class task1while {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the First Number: ");
